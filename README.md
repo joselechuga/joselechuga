@@ -1,7 +1,11 @@
 ### About me: 👋
-I am a young developer looking to expand my knowledge in different programming languages. :penguin: .
+I am a young developer looking to expand my knowledge in different programming languages. :penguin:. 
 <br />
 This Ghithub is my second account, here you would found all my different projects at Duoc UC.
+
+<a href="https://github.com/josemedina1">
+<img src="https://img.shields.io/badge/First-account-blue" />
+</a>
 
 ## Keep in touch with me 😊
 <a href="mailto:medinavera.jose@gmail.com">
