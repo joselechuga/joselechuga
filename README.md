@@ -1,6 +1,5 @@
 ### About me: 👋
 I am a young developer looking to expand my knowledge in different programming languages. :penguin: .
-
 <br />
 This Ghithub is my second account, here you would found all my different projects at Duoc UC.
 
@@ -43,9 +42,6 @@ This Ghithub is my second account, here you would found all my different project
   ### :fire: My Stats :
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joselechuga&layout=compact)](https://github.com/joselechuga/github-readme-stats)
 
-</div>
-<div>
-   <button name="button">Click me</button>
 </div>
 
 ---
